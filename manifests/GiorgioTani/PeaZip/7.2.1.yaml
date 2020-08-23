@@ -1,13 +1,13 @@
 Id: Giorgiotani.Peazip
 Name: peazip
 AppMoniker: peazip
-Version: 7.2.1
+Version: 7.4.0
 Publisher: Giorgio Tani
 Author: Giorgio Tani
 License: Open Source license LGPLv3
-LicenseUrl: https://www.peazip.org/peazip-tos-privacy.html#software_copyright
+LicenseUrl: https://peazip.github.io/peazip-tos-privacy.html#software_copyright
 MinOSVersion: 10.0.0.0
-Homepage: https://www.peazip.org/
+Homepage: https://peazip.github.io
 Tags: "zip, compression, peazip, giorgio, tani, files, compressed"
 InstallerType: exe
 
@@ -15,8 +15,8 @@ InstallerType: exe
 
 Installers: 
   - Arch: x64
-    Url: https://sourceforge.net/projects/peazip/files/7.2.1/peazip-7.2.1.WIN64.exe/download
-    Sha256: F3EB7F3078FBA99C31A8BB6F171B5B03428C6B0F0873F511D6F87C657CE46E65
+    Url: https://github.com/peazip/PeaZip/releases/download/7.4.0/peazip-7.4.0.WIN64.exe
+    Sha256: BD700CFBC7D7E3F696115EA6DDA18044BEC32E94C34B731EFF9190747257FC73
     Language: en-US
     Switches: 
       Silent: "/SILENT /NORESTART"
